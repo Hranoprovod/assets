@@ -1,0 +1,4 @@
+assets
+======
+
+Project assets
